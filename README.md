@@ -2,7 +2,7 @@
 A collaborative collection (of one at the moment) of .json data files to use with Craft plugin for Sketch app
 
 
-# How to use it
+## How to use it
 
 **1. Get Sketch if you don't have it yet**
 
