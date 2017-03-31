@@ -4,11 +4,14 @@ A collaborative collection (of one at the moment) of .json data files to use wit
 
 # How to use it
 
-### Get Sketch if you don't have it yet
+**1. Get Sketch if you don't have it yet**
+
 https://www.sketchapp.com/
 
-### Install Craft plugin
+**2. Install Craft plugin**
+
 https://www.invisionapp.com/craft
 
-### Read the How to "Craft - Introduction to the Data plugin"
+**3. Read the How to "Craft - Introduction to the Data plugin"**
+
 https://support.invisionapp.com/hc/en-us/articles/209650506-Craft-Introduction-to-the-Data-plugin
